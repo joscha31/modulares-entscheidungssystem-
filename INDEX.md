@@ -1,0 +1,110 @@
+# INDEX – Modulares Entscheidungssystem
+
+**Stand:** 25. August 2026  
+**Funktion:** Zentrales Inhaltsverzeichnis des Projekts
+
+> Der Index enthält keine ausführlichen Fachinhalte. Er zeigt nur, welche Dateien es gibt, wofür sie zuständig sind und welchen Status sie haben.
+
+## Prioritätsregel bei Widersprüchen
+
+1. aktuelle `Quelle-der-Wahrheit-*.md`
+2. ausdrücklich bestätigte spätere strategische Entscheidung
+3. freigegebene Spezifikation
+4. Forschungsberichte
+5. Pilot- und Entwicklungsprotokolle
+6. Marketing-Ideen
+7. ältere Chats / Brainstormings
+
+Widersprüche werden sichtbar gemacht und bewusst entschieden.
+
+---
+
+## Strategie
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `strategie/Quelle-der-Wahrheit-2.1.md` | Verbindlicher strategischer Stand des Gesamtprojekts | verbindlich |
+| `strategie/Vision.md` | Ausführliche Vision / emotionaler Nordstern | noch aus Visions-Chat zu erstellen |
+| `strategie/Mission.md` | Falls später eine ausführliche Mission außerhalb der Quelle benötigt wird | optional / noch nicht angelegt |
+
+---
+
+## Forschung
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `forschung/Forschungsbericht-1.0-Bewertungsraster.md` | Fachliche Grundlagen für Bewertungsraster und Entscheidungslogik | vorhanden / Referenz |
+| `forschung/Pruefung-Forschungsbericht-1.0.md` | Verdichtung des Berichts auf die kleinste testbare Strecke | Inhalt vorhanden, Datei noch anzulegen |
+
+---
+
+## Pilotierung
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `pilot/Kleinste-Strecke-1.0.md` | Drei Ebenen, zehn Fragen – kleinste testbare Entscheidungsstrecke | Arbeitsmodell |
+| `pilot/Pilotin-0-Petra.md` | Petras persönlicher Testdurchlauf | laufend |
+
+---
+
+## System
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `system/Ilse-Prinzipien.md` | Verbindliche Dialog-, Sprach- und Begleitprinzipien für Ilse | im Aufbau |
+| `system/Programmarchitektur.md` | Wachsende fachliche Struktur des Programms | im Aufbau |
+| `system/Offene-Forschungsfragen.md` | Systemfragen, die bewusst noch nicht entschieden sind | sinnvoll, noch anzulegen |
+
+---
+
+## Marketing
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `marketing/Marketing-Ideen.md` | Parkplatz für Marketingideen, die strategisch noch nicht bearbeitet werden | anzulegen |
+
+---
+
+## Entwicklungsprotokolle
+
+| Datei | Funktion | Status |
+|---|---|---|
+| `entwicklungsprotokolle/2026-08-24.md` | Rekonstruktion der Entwicklung vom 24.08.2026 | vorhanden |
+| `entwicklungsprotokolle/2026-08-25.md` | Entwicklung vom 25.08.2026 | vorhanden |
+
+Künftige Protokolle werden nach relevantem Arbeitstag ergänzt.
+
+---
+
+## Spätere technische Spezifikationen
+
+| Datei / Ordner | Funktion | Status |
+|---|---|---|
+| `specs/` | Fachlich freigegebene Vorgaben für Claude Code | noch nicht beginnen |
+| `specs/Ilse-Spezifikation-0.1.md` | Erste umsetzbare Spezifikation nach ausreichender Pilotierung | später |
+
+**Versionsregel:** Versionsnummern stehen für fachlich geschlossene Entwicklungsstände, nicht für Kalendertage.
+
+---
+
+## Empfohlene Repository-Struktur
+
+```text
+modulares-entscheidungssystem/
+├── INDEX.md
+├── strategie/
+├── forschung/
+├── pilot/
+├── system/
+├── marketing/
+├── entwicklungsprotokolle/
+└── specs/
+```
+
+---
+
+## Regel für neue Dateien
+
+Eine neue Datei entsteht nur, wenn das Wissen dauerhaft gebraucht wird und eine eigene Funktion hat, die nicht sauber von einer bestehenden Datei erfüllt wird.
+
+Jede neue dauerhafte Projektdatei wird anschließend in diesem `INDEX.md` ergänzt.
