@@ -1,10 +1,20 @@
 # Meine Vision – die drei Stufen
 
-**Stand: 25. August 2026**
+**Stand: 26. August 2026**
 
 > **Ich möchte dazu beitragen, dass Frauen die Freiheit haben, ihr Leben nach ihren eigenen Vorstellungen zu gestalten.**
 
 Das ist die Vision über allem.
+
+## Die einfache Formel
+
+> **Die Vision ist Freiheit.**  
+> **Der Hebel ist finanzielle Selbstbestimmung.**  
+> **Die Methode ist das modulare Entscheidungssystem.**
+
+Die Vision darf weit sein. Das Unternehmen bleibt klar und konkret.
+
+Finanzielle Selbstbestimmung ist der zentrale Hebel, weil wirtschaftliche Wahlmöglichkeiten Frauen dabei unterstützen, Entscheidungen über ihr Leben freier treffen zu können.
 
 Ich möchte etwas schaffen, das Frauen dabei unterstützt, **ihr Leben, ihre Arbeit und ihren Weg zu finanzieller Freiheit nach ihren eigenen Vorstellungen zu gestalten.**
 
