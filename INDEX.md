@@ -1,6 +1,6 @@
 # INDEX – Modulares Entscheidungssystem
 
-**Stand:** 25. August 2026  
+**Stand:** 26. August 2026  
 **Funktion:** Zentrales Inhaltsverzeichnis des Projekts
 
 > Der Index enthält keine ausführlichen Fachinhalte. Er zeigt nur, welche Dateien es gibt, wofür sie zuständig sind und welchen Status sie haben.
@@ -34,7 +34,7 @@ Widersprüche werden sichtbar gemacht und bewusst entschieden.
 | Datei | Funktion | Status |
 |---|---|---|
 | `forschung/Forschungsbericht-1.0-Bewertungsraster.md` | Fachliche Grundlagen für Bewertungsraster und Entscheidungslogik | vorhanden / Referenz |
-| `forschung/Pruefung-Forschungsbericht-1.0.md` | Verdichtung des Berichts auf die kleinste testbare Strecke | Inhalt vorhanden, Datei noch anzulegen |
+| `forschung/Pruefung-Forschungsbericht-1.0.md` | Verdichtung des Berichts auf die kleinste testbare Strecke | vorhanden / Referenz |
 
 ---
 
