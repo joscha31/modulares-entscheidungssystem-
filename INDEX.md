@@ -52,7 +52,7 @@ Widersprüche werden sichtbar gemacht und bewusst entschieden.
 | Datei | Funktion | Status |
 |---|---|---|
 | `system/Ilse-Prinzipien.md` | Verbindliche Dialog-, Sprach- und Begleitprinzipien für Ilse | im Aufbau |
-| `system/Programmarchitektur.md` | Wachsende fachliche Struktur des Programms | im Aufbau |
+| `system/Programmarchitektur.md` | Fachliche Arbeitsarchitektur aus den Forschungsergebnissen; Teil A Klarheit, Teil B Möglichkeit, Teil C Umsetzung | vorhanden / Arbeitsmodell |
 | `system/Offene-Forschungsfragen.md` | Systemfragen, die bewusst noch nicht entschieden sind | sinnvoll, noch anzulegen |
 
 ---
